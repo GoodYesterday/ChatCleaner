@@ -1,0 +1,15 @@
+---
+name: ChatCleaner
+author: GYo.O
+version: G111
+main: GY\PM4\ChatCleaner
+api: 4.0.0
+
+commands:
+  채팅청소:
+    description: 채팅청소 명령어입니다.
+    permission: Cc.cmd
+permissions:
+  Cc.cmd:
+    default: op
+...
